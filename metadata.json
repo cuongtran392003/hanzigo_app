@@ -1,0 +1,6 @@
+{
+  "name": "Học Tiếng Trung",
+  "description": "Ứng dụng học tiếng Trung thông minh tích hợp Spaced Repetition Flashcards, nhận diện giọng nói, bài kiểm tra đánh giá và AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

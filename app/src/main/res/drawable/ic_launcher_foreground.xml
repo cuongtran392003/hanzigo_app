@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Gold Imperial Seal Circle -->
+    <path
+        android:pathData="M54,16 A38,38 0 1,1 53.9,16"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Outer Fine Gold Circle -->
+    <path
+        android:pathData="M54,22 A32,32 0 1,1 53.9,22"
+        android:strokeColor="#FFB74D"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Center Chinese character "中" (Represents Language/Tiếng Trung) -->
+    <!-- Middle Box -->
+    <path
+        android:pathData="M37,42 H71 V62 H37 Z"
+        android:fillColor="#FFD700"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round" />
+
+    <!-- Vertical center line -->
+    <path
+        android:pathData="M54,26 V78"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="7"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M54,26 V78"
+        android:strokeColor="#FFB74D"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+</vector>
